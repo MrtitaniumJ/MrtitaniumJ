@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**MrtitaniumJ/MrtitaniumJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on App Development
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on C/Python/Java
@@ -48,4 +43,4 @@ Git VS Code Eclipse
 snake gif
 
 Show Some ❤ by giving ⭐ to my Reposiotries
--->
+
