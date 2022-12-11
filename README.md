@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jatin Sharma</h1>
 <h3 align="center">I am pursuing B.Tech with Computer Science and Engineering. My personality and the ability to take risk is my biggest asset. Video editing, photography is my forte. I have an insatiable thirst to learn and being a focused and consistent student. I want to learn a lot about computer science and so looking for the best opportunity I can get. I also have a keen interest in content writing. Currently I'm working on Android Development Project. I'm an Associate at content team of GLAU Codechef Chapter - CodeBusters.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/pPKOYQpTO8AAAAAS/monkey-developer.gif">
+<img align="center" alt="Coding" width="650" src="https://media.tenor.com/pPKOYQpTO8AAAAAS/monkey-developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrtitaniumj&label=Profile%20views&color=0e75b6&style=flat" alt="mrtitaniumj" /> </p>
 
