@@ -1,27 +1,4 @@
 <!-- Profile Banner -->
-<p align="center">
-  <svg width="100%" height="100">
-    <defs>
-      <linearGradient id="grad" x1="0" x2="1">
-        <stop offset="0%" stop-color="#00bfff">
-          <animate attributeName="offset" values="0;1" dur="3s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#1e90ff">
-          <animate attributeName="offset" values="1;0" dur="3s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-    </defs>
-    <text x="50%" y="65%" text-anchor="middle" dominant-baseline="middle" font-size="32" font-family="Fira Code, monospace" fill="url(#grad)">
-      Hi 👋 I'm Jatin Sharma — Full Stack Developer | Co-Founder | Product Builder
-    </text>
-  </svg>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=600&lines=Welcome+to+my+GitHub!;I+love+building+with+AI%2C+React+and+Node.js;Let%E2%80%99s+build+something+awesome+🚀" />
-</p>
-
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Hi+%F0%9F%91%8B%2C+I'm+Jatin+Sharma!;Full-Stack+Developer+%7C+Co-Founder+%7C+Product+Builder;AI-powered+Tech+%7C+Open+Source+%7C+Automation+Lover" alt="Typing SVG" />
 
 <p align="center">
