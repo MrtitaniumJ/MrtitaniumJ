@@ -1,89 +1,69 @@
-<h1 align="center">Hi 👋 I'm Jatin Sharma</h1>
-<h3 align="center">Full-Stack Developer | Co-Founder @ Career Accelerator | Passionate about building scalable AI-powered platforms</h3>
+<!-- Profile Banner -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Hi+%F0%9F%91%8B%2C+I'm+Jatin+Sharma!;Full-Stack+Developer+%7C+Co-Founder+%7C+Product+Builder;AI-powered+Tech+%7C+Open+Source+%7C+Automation+Lover" alt="Typing SVG" />
 
 <p align="center">
-  <a href="https://linkedin.com/in/jatin-sharma-82121217a" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://twitter.com/jksharma_jatin" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white"></a>
-  <a href="mailto:jkjatinsharma72@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://holopin.io/@jkjatinsharma72"><img alt="Holopin" src="https://holopin.me/jkjatinsharma72"></a>
+  <img src="https://komarev.com/ghpvc/?username=MrtitaniumJ&style=flat-square&color=blue" alt="GitHub Views" />
+  <img src="https://img.shields.io/github/followers/MrtitaniumJ?label=Follow&style=flat-square" alt="Followers" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 🧑‍💻 About Me
 
-- 🧑‍💻 Full-stack developer with experience in **React**, **Next.js**, **Node.js**, **PostgreSQL**, **MongoDB**, **Firebase**, and more.
-- 👨‍💼 Co-founder of [Devs Career Accelerator](https://devscareeraccelerator.com) – helping 10K+ devs & 200+ recruiters.
-- 🤖 Built AI-driven mock interview tool [Mocker.AI](https://github.com/MrtitaniumJ/Mocker.AI) with feedback systems using Gemini AI.
-- 🛠️ Enjoys creating scalable products, automations, and solving real-world problems with code.
-- 🎓 B.Tech CSE | 2021–2025 | GLA University
-- 🌱 Currently learning **system design**, **TypeScript**, and **cloud deployment**.
-- 💬 Ask me about: Full-stack apps, AI integrations, automation bots.
+I'm a passionate full-stack developer and co-founder at [Devs Career Accelerator](https://devscareeraccelerator.com), building products that **scale with purpose**.
 
----
-
-### 🧩 Tech Stack
-
-#### Languages  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
-
-#### Frontend  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-![Shadcn/UI](https://img.shields.io/badge/-shadcn/ui-black?style=flat-square)
-
-#### Backend  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
-
-#### Tools & Platforms  
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-![Stripe](https://img.shields.io/badge/-Stripe-black?style=flat-square&logo=stripe)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+- 🔭 Currently working on: **AI-powered platforms**, automation tools, and career-tech products
+- 💡 Enjoy solving problems that blend **tech, data, and user experience**
+- 🚀 Co-founded a platform used by **10K+ developers & 200+ recruiters**
+- 🌱 Learning: **TypeScript**, **System Design**, and **Cloud Infrastructure**
+- 🎯 Open to **remote roles**, **founder-led startups**, and **impact-driven tech**
+- ⚡ Fun Fact: I once built an AI interview system with feedback that scared my friends 😄
 
 ---
 
-### 🏆 Featured Projects
+### 🛠️ My Tech Toolbox
 
-#### 🔹 [Devs Career Accelerator](https://devscareeraccelerator.com)  
-Built a complete platform that matches devs with recruiters, automates job applications using bots, and integrates Stripe + AI tools.
-
-#### 🔹 [Mocker.AI](https://github.com/MrtitaniumJ/Mocker.AI)  
-AI-driven mock interview platform with real-time feedback and voice-to-text analysis using Gemini AI.
-
-#### 🔹 ResuFit  
-An NLP-powered resume benchmarking tool for job matching using spaCy and custom ML logic.
+| Languages | Frameworks & Libraries | Databases | Tools |
+|----------|------------------------|----------|--------|
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java) | ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb) | ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker) ![Stripe](https://img.shields.io/badge/-Stripe-black?style=flat&logo=stripe) ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel) |
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🎯 [**Devs Career Accelerator**](https://devscareeraccelerator.com) | Full platform built from scratch to help developers get hired faster. Includes AI onboarding, auto-apply bots, recruiter matching, and Stripe payments. |
+| 🧠 [**Mocker.AI**](https://github.com/MrtitaniumJ/Mocker.AI) | AI-powered mock interview tool with real-time feedback, speech-to-text analysis, and Gemini AI-based scoring. |
+| 📄 **ResuFit** | Resume benchmarking tool using NLP (spaCy, node-nlp) to evaluate job fit and improve profiles dynamically. |
+
+---
+
+### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrtitaniumJ&show_icons=true&theme=github_dark" alt="Jatin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrtitaniumJ&layout=compact&theme=github_dark" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrtitaniumJ&theme=github-dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrtitaniumJ&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrtitaniumJ&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrtitaniumJ&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+### 🌐 Let's Connect
 
-Feel free to reach out for collaborations, freelance projects, or just to say hi!
-
-- 📧 jkjatinsharma72@gmail.com  
-- 🐦 [@jksharma_jatin](https://twitter.com/jksharma_jatin)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jatin-sharma-82121217a/)  
-- 🌐 [Portfolio (coming soon)](https://devscareeraccelerator.com)
+<p align="center">
+  <a href="mailto:jkjatinsharma72@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jatin-sharma-82121217a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/jksharma_jatin"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://holopin.io/@jkjatinsharma72"><img src="https://img.shields.io/badge/Holopin-Badges-black?style=for-the-badge&logo=holopin&logoColor=white"></a>
+</p>
 
 ---
 
-> “Code it until it works. Learn until it sticks. Build until it scales.” 💻🚀
+> **"Build like a founder. Ship like a team. Solve like a developer."**
+
+---
+
